@@ -1,0 +1,13 @@
+git init 
+git config user.name " "
+git config user.email " "
+git config credential.username ""
+git config credential.email " "
+git remote add origin "LINK"
+
+
+
+
+git add ""  /  .
+git commit -m " "
+git push origin master
